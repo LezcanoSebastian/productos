@@ -1,0 +1,16 @@
+
+Éste es un ejercicio optativo, para reforzar lo visto hasta ahora. Quienes lo resuelvan,
+pueden dejarlo en el hilo de comentarios. ¡Éxitos!
+
+¡CRUD Simulator!
+
+En esta ejercitación te pediremos que desarrolles una pequeña aplicación modularizada que, 
+dado un archivo .json de productos, al ejecutarla por linea de comandos pueda recibir las 
+siguientes instrucciones: 
+- listar todos los productos
+- agregar un nuevo producto
+- filtrar los productos según su precio(ej.: Todos los productos que tengan un precio entre 20 y 100)
+- modificar el precio de un producto específico
++Extras+
+- eliminar un producto 
+- buscar un producto
